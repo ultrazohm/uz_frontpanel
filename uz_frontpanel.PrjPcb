@@ -110,20 +110,20 @@ DocumentPath=Project Outputs for uz_frontpanel\Design Rule Check - frontpanel.ht
 DItemRevisionGUID=
 
 [Parameter1]
-Name=AuthorParam
-Value=:-)
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=Project
-Value=UZ_Frontpanel
-
-[Parameter3]
 Name=ProjectDate
 Value=10/2021
 
+[Parameter3]
+Name=Project
+Value=UZ_Frontpanel
+
 [Parameter4]
-Name=ProjectRevision
-Value=1v00
+Name=AuthorParam
+Value=:-)
 
 [Configuration1]
 Name=Sources
