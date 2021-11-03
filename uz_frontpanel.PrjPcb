@@ -71,21 +71,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NIIRTBDE
 
+[Document3]
+DocumentPath=..\..\Alitum_libs_frontpanel\altium_libraries\symbols\Misc\SCH - MISC - DESIGN_INFO.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WODQAEZB
+
+[Document4]
+DocumentPath=..\..\Alitum_libs_frontpanel\altium_libraries\footprints\Misc\PCB - MISC - DESIGN_INFO.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WPKUNYMX
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for uz_frontpanel\Design Rule Check - frontpanel.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=ProjectRevision
-Value=1v00
+Name=AuthorParam
+Value=:-)
 
 [Parameter2]
-Name=ProjectDate
-Value=10/2021
-
-[Parameter3]
 Name=Project
 Value=UZ_Frontpanel
 
+[Parameter3]
+Name=ProjectDate
+Value=10/2021
+
 [Parameter4]
-Name=AuthorParam
-Value=:-)
+Name=ProjectRevision
+Value=1v00
 
 [Configuration1]
 Name=Sources
