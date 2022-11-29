@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: frontpanel.PcbDoc   29.11.2022  12:23:49
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : frontpanel-RoundHoles.TXT
+ASCII SlotHoles File : frontpanel-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             8         PTH        1.07inch (27.19mm)
+T2      27mil (0.687mm)                                           Slot              10        PTH        5.50inch (139.73mm)
+T3      27mil (0.687mm)                                           Slot              1         PTH        0.12inch (3.16mm)
+T4      35mil (0.9mm)                                             Round             13        PTH        1.20inch (30.48mm)
+T5      40mil (1.02mm)                                            Round             26        PTH        2.90inch (73.66mm)
+T6      114mil (2.9mm)                                            Round             3         NPTH       6.34inch (161.08mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              61
+
+Total Processing Time (hh:mm:ss) : 00:00:00
